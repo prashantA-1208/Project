@@ -58,11 +58,29 @@
   line-height: 40px;
   text-align: justify;
   font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+  flex-direction: column;
 }
 .contact{
   margin: 50px 200px 00px 200px;
   line-height: 40px;
   text-align: justify;
   font-size: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+  flex-direction: column;
   
+}
+
+.register{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+  flex-direction: column;
 }
